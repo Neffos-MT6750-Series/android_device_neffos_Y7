@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "Neffos-MT6750-Series/vendor_Y7",
+    "target_path": "vendor/neffos/Y7",
+    "branch": "oreo"
+  }
+] 
